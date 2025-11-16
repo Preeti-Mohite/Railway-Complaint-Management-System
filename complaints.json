@@ -1,0 +1,1757 @@
+{
+    "69ea9351": {
+        "pnr": "",
+        "submitted_at": 1757508992.0391285,
+        "complaint_type": "Cleanliness",
+        "complaint": "dirty coach",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 0.4462853073083517
+            },
+            {
+                "department": "Security / RPF",
+                "score": 0.10087421292223611
+            },
+            {
+                "department": "Catering",
+                "score": 0.10014630136399767
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "572ef10a": {
+        "pnr": "",
+        "submitted_at": 1757509159.3574126,
+        "complaint_type": "Cleanliness",
+        "complaint": "dirty coach",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 0.4462853073083517
+            },
+            {
+                "department": "Security / RPF",
+                "score": 0.10087421292223611
+            },
+            {
+                "department": "Catering",
+                "score": 0.10014630136399767
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "8929c23a": {
+        "pnr": "2324000681",
+        "submitted_at": 1759682339.5443785,
+        "complaint_type": "Other",
+        "complaint": "..",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 0.3449006150710015
+            },
+            {
+                "department": "Maintenance",
+                "score": 0.18327422489188003
+            },
+            {
+                "department": "Booking",
+                "score": 0.1233143022652185
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "3eee7984": {
+        "pnr": "2324000681",
+        "submitted_at": 1759690115.8937488,
+        "complaint_type": "Other",
+        "complaint": "nice",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 0.3449006150710015
+            },
+            {
+                "department": "Maintenance",
+                "score": 0.18327422489188003
+            },
+            {
+                "department": "Booking",
+                "score": 0.1233143022652185
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "11884818": {
+        "pnr": "2324000681",
+        "submitted_at": 1759690127.3972378,
+        "complaint_type": "Punctuality",
+        "complaint": "nice",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 0.3449006150710015
+            },
+            {
+                "department": "Maintenance",
+                "score": 0.18327422489188003
+            },
+            {
+                "department": "Booking",
+                "score": 0.1233143022652185
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "574dba52": {
+        "pnr": "2324000681",
+        "submitted_at": 1759690138.7473521,
+        "complaint_type": "Booking",
+        "complaint": "nice",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 0.3449006150710015
+            },
+            {
+                "department": "Maintenance",
+                "score": 0.18327422489188003
+            },
+            {
+                "department": "Booking",
+                "score": 0.1233143022652185
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "52f8fd1c": {
+        "pnr": "2324000681",
+        "submitted_at": 1759691258.8521054,
+        "complaint_type": "Other",
+        "complaint": "nice work",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 0.5413313556556035
+            },
+            {
+                "department": "Maintenance",
+                "score": 0.1250786642134746
+            },
+            {
+                "department": "Booking",
+                "score": 0.09618878521860458
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "9186cdb4": {
+        "pnr": "2324000681",
+        "submitted_at": 1759691272.4316964,
+        "complaint_type": "Other",
+        "complaint": "coach are dirty\n",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 0.7246219423439004
+            },
+            {
+                "department": "General",
+                "score": 0.06472542536598036
+            },
+            {
+                "department": "Booking",
+                "score": 0.04191673929879599
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "6e498d05": {
+        "pnr": "2324000681",
+        "submitted_at": 1759691292.5775237,
+        "complaint_type": "Other",
+        "complaint": "food",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 0.8022192751252157
+            },
+            {
+                "department": "General",
+                "score": 0.06600410525130607
+            },
+            {
+                "department": "Booking",
+                "score": 0.02591582460027139
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "cf1a5054": {
+        "pnr": "2324000681",
+        "submitted_at": 1759691300.4707246,
+        "complaint_type": "Other",
+        "complaint": "food ",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 0.8022192751252157
+            },
+            {
+                "department": "General",
+                "score": 0.06600410525130607
+            },
+            {
+                "department": "Booking",
+                "score": 0.02591582460027139
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "65875a32": {
+        "pnr": "232489604",
+        "submitted_at": 1759691316.8628595,
+        "complaint_type": "Other",
+        "complaint": "food was not good",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 0.5524035990839942
+            },
+            {
+                "department": "General",
+                "score": 0.1719268503940261
+            },
+            {
+                "department": "Booking",
+                "score": 0.0728505239033493
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "b0a00cc8": {
+        "pnr": "23285903",
+        "submitted_at": 1759691340.3661454,
+        "complaint_type": "Other",
+        "complaint": "thief was there",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 0.3667148998535961
+            },
+            {
+                "department": "Maintenance",
+                "score": 0.1934703149692883
+            },
+            {
+                "department": "Booking",
+                "score": 0.10551944279344157
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "19927db4": {
+        "pnr": "9020498033",
+        "submitted_at": 1759691404.221629,
+        "complaint_type": "Other",
+        "complaint": "I want to know y the waiting list ticket can t be cancelled at the same time of departure of the train",
+        "predicted": [
+            {
+                "department": "Booking",
+                "score": 0.33117567457761854
+            },
+            {
+                "department": "Maintenance",
+                "score": 0.16231002152934804
+            },
+            {
+                "department": "General",
+                "score": 0.152380407204289
+            }
+        ],
+        "assigned_departments": [
+            "Booking"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "3b9e2a39": {
+        "pnr": "9302904042",
+        "submitted_at": 1759691421.236364,
+        "complaint_type": "Other",
+        "complaint": "booking issue",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 0.29818815945419364
+            },
+            {
+                "department": "Booking",
+                "score": 0.28876410581185225
+            },
+            {
+                "department": "Maintenance",
+                "score": 0.10424922026940941
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "d56cae70": {
+        "pnr": "920489904",
+        "submitted_at": 1759691445.1202474,
+        "complaint_type": "Other",
+        "complaint": "food\n",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 0.8022192751252157
+            },
+            {
+                "department": "General",
+                "score": 0.06600410525130607
+            },
+            {
+                "department": "Booking",
+                "score": 0.02591582460027139
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "5922a568": {
+        "pnr": "2324000681",
+        "submitted_at": 1759696950.721819,
+        "complaint_type": "Other",
+        "complaint": "food was good",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 0.4172335672319188
+            },
+            {
+                "department": "Booking",
+                "score": 0.08996170120538444
+            },
+            {
+                "department": "Cleanliness",
+                "score": 0.07486231030164682
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "7dc87142": {
+        "pnr": "232400900",
+        "submitted_at": 1759696971.8352058,
+        "complaint_type": "Other",
+        "complaint": "toilet were dirty\n",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 0.2879155929937523
+            },
+            {
+                "department": "Catering",
+                "score": 0.12386629106926068
+            },
+            {
+                "department": "Maintenance",
+                "score": 0.11053047376027643
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "633f96f4": {
+        "pnr": "2324000681",
+        "submitted_at": 1759697571.8639495,
+        "complaint_type": "Other",
+        "complaint": ".",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 0.11236332137315899
+            },
+            {
+                "department": "Catering",
+                "score": 0.11114696701149768
+            },
+            {
+                "department": "Security & Safety",
+                "score": 0.11072207038345659
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending",
+        "feedback": null
+    },
+    "cfc37ad5": {
+        "pnr": "2324000681",
+        "submitted_at": 1759761679.7214231,
+        "complaint": "toilet was not good\n",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending"
+    },
+    "219fe8ad": {
+        "pnr": "23375874603",
+        "submitted_at": 1759761705.0998068,
+        "complaint": "food was not good",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "2041facc": {
+        "pnr": "3780040434",
+        "submitted_at": 1759761717.1407862,
+        "complaint": "toilet",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending"
+    },
+    "272f612e": {
+        "pnr": "2324000681",
+        "submitted_at": 1759761733.2581432,
+        "complaint": "safety",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending"
+    },
+    "bd2a3ef0": {
+        "pnr": "2324000681",
+        "submitted_at": 1759761739.8245723,
+        "complaint": "safety",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending"
+    },
+    "8efc9203": {
+        "pnr": "37859973683",
+        "submitted_at": 1759761749.8740065,
+        "complaint": "safe\n",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "f227dd50": {
+        "pnr": "",
+        "submitted_at": 1759761819.1631708,
+        "complaint": "missing",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending"
+    },
+    "203cfb28": {
+        "pnr": "3588946785",
+        "submitted_at": 1759761834.7364159,
+        "complaint": "guy is missing\n",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending"
+    },
+    "7dd258fc": {
+        "pnr": "5664515785",
+        "submitted_at": 1759762539.6622598,
+        "complaint": "My refund for a failed transaction on 15th October has still not been processed.",
+        "predicted": [
+            {
+                "department": "Booking",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Booking"
+        ],
+        "status": "Pending"
+    },
+    "f4de1bee": {
+        "pnr": "4518942187557",
+        "submitted_at": 1759762567.8614318,
+        "complaint": "found cockroach under my seat",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending"
+    },
+    "390cd419": {
+        "pnr": "7867577865",
+        "submitted_at": 1759762981.7078645,
+        "complaint": "toilet was not clean.",
+        "predicted": [
+            {
+                "department": "Booking",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Booking"
+        ],
+        "status": "Pending"
+    },
+    "2df05cb7": {
+        "pnr": "949768783943",
+        "submitted_at": 1759762999.0573673,
+        "complaint": "toilet was dirty",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending"
+    },
+    "78d62d06": {
+        "pnr": "512148753124",
+        "submitted_at": 1759763027.1042578,
+        "complaint": "toilet was dirty",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending"
+    },
+    "d6443788": {
+        "pnr": "215787013458",
+        "submitted_at": 1759763044.3940463,
+        "complaint": "cockroaches were under seat",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending"
+    },
+    "391143f5": {
+        "pnr": "268912874512",
+        "submitted_at": 1759763059.4821641,
+        "complaint": "seat was broken",
+        "predicted": [
+            {
+                "department": "Booking",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Booking"
+        ],
+        "status": "Pending"
+    },
+    "882a2e75": {
+        "pnr": "5689720226",
+        "submitted_at": 1759763096.098245,
+        "complaint": "panic attack",
+        "predicted": [
+            {
+                "department": "Medical Assistance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Medical Assistance"
+        ],
+        "status": "Pending"
+    },
+    "0f693978": {
+        "pnr": "597521598452",
+        "submitted_at": 1759763119.143507,
+        "complaint": "rude behavior of staff",
+        "predicted": [
+            {
+                "department": "Staff Conduct",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Staff Conduct"
+        ],
+        "status": "Pending"
+    },
+    "c184c8ff": {
+        "pnr": "5545215451",
+        "submitted_at": 1759930007.4628854,
+        "complaint": "cockroaches\n",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending"
+    },
+    "89b8f88d": {
+        "pnr": "512148753124",
+        "submitted_at": 1759942132.8331103,
+        "complaint": "food was not good\n",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "32680f9e": {
+        "pnr": "512148753124",
+        "submitted_at": 1759942395.9116263,
+        "complaint": "thief \n",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "b6af7c4d": {
+        "pnr": "",
+        "submitted_at": 1759942410.8739893,
+        "complaint": "cockroach",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "637f456c": {
+        "pnr": "",
+        "submitted_at": 1759942415.8634796,
+        "complaint": "toilet",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending"
+    },
+    "94a55c1f": {
+        "pnr": "",
+        "submitted_at": 1759942424.278731,
+        "complaint": "cockroach",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "e2deb7d7": {
+        "pnr": "",
+        "submitted_at": 1759944001.6699648,
+        "complaint": "cockroach",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "b56afe0f": {
+        "pnr": "",
+        "submitted_at": 1759944014.5414963,
+        "complaint": "food",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "61b7702b": {
+        "pnr": "",
+        "submitted_at": 1759944019.1003695,
+        "complaint": "thanks",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "533c2bdd": {
+        "pnr": "",
+        "submitted_at": 1759944024.5428135,
+        "complaint": "nice",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "e18be925": {
+        "pnr": "",
+        "submitted_at": 1759944030.0258274,
+        "complaint": "toilet",
+        "predicted": [
+            {
+                "department": "Operations & Scheduling",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Operations & Scheduling"
+        ],
+        "status": "Pending"
+    },
+    "56ec7c62": {
+        "pnr": "",
+        "submitted_at": 1759944039.246224,
+        "complaint": "booking",
+        "predicted": [
+            {
+                "department": "Cleanliness & Housekeeping",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness & Housekeeping"
+        ],
+        "status": "Pending"
+    },
+    "1df53fbd": {
+        "pnr": "",
+        "submitted_at": 1759945224.7249703,
+        "complaint": "food\n",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "fa272669": {
+        "pnr": "",
+        "submitted_at": 1759945231.1379414,
+        "complaint": "toilet",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending"
+    },
+    "abe933fa": {
+        "pnr": "",
+        "submitted_at": 1759945239.8389385,
+        "complaint": "cockroaches",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending"
+    },
+    "e547663d": {
+        "pnr": "",
+        "submitted_at": 1759945249.1955266,
+        "complaint": "thief",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "20af1efb": {
+        "pnr": "",
+        "submitted_at": 1759945261.8083048,
+        "complaint": "ill",
+        "predicted": [
+            {
+                "department": "Medical Assistance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Medical Assistance"
+        ],
+        "status": "Pending"
+    },
+    "03c96336": {
+        "pnr": "",
+        "submitted_at": 1759945362.6480942,
+        "complaint": "booking",
+        "predicted": [
+            {
+                "department": "Booking",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Booking"
+        ],
+        "status": "Pending"
+    },
+    "496e0d6e": {
+        "pnr": "",
+        "submitted_at": 1759945368.1502385,
+        "complaint": "ticket",
+        "predicted": [
+            {
+                "department": "Booking",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Booking"
+        ],
+        "status": "Pending"
+    },
+    "991f59db": {
+        "pnr": "",
+        "submitted_at": 1759945553.3389714,
+        "complaint": "food",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending"
+    },
+    "beb6215b": {
+        "pnr": "",
+        "submitted_at": 1759945558.3820727,
+        "complaint": "food\n",
+        "predicted": [
+            {
+                "department": "Maintenance",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Maintenance"
+        ],
+        "status": "Pending"
+    },
+    "b1753679": {
+        "pnr": "",
+        "submitted_at": 1759945682.6542046,
+        "complaint": "food",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "1813d7c9": {
+        "pnr": "",
+        "submitted_at": 1759945696.8034933,
+        "complaint": "nice",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "1ab79e98": {
+        "pnr": "",
+        "submitted_at": 1759946442.4020596,
+        "complaint": "food",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "c7c7e9bf": {
+        "pnr": "",
+        "submitted_at": 1759946455.9113038,
+        "complaint": "toilet",
+        "predicted": [
+            {
+                "department": "Operations & Scheduling",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Operations & Scheduling"
+        ],
+        "status": "Pending"
+    },
+    "3fdb7259": {
+        "pnr": "",
+        "submitted_at": 1759946624.5050623,
+        "complaint": "food\n",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "ac1e7d22": {
+        "pnr": "",
+        "submitted_at": 1759946629.2934022,
+        "complaint": "toilet\n",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending"
+    },
+    "a8cd1c9c": {
+        "pnr": "",
+        "submitted_at": 1759946634.5005376,
+        "complaint": "cockroach",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "0a64952e": {
+        "pnr": "",
+        "submitted_at": 1759946638.690345,
+        "complaint": "booking",
+        "predicted": [
+            {
+                "department": "Booking",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Booking"
+        ],
+        "status": "Pending"
+    },
+    "e4aacf43": {
+        "pnr": "",
+        "submitted_at": 1759946642.2772863,
+        "complaint": "ticket",
+        "predicted": [
+            {
+                "department": "Booking",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Booking"
+        ],
+        "status": "Pending"
+    },
+    "a394b6e7": {
+        "pnr": "",
+        "submitted_at": 1759946648.7532012,
+        "complaint": "cockroach\n",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "2e0fd489": {
+        "pnr": "",
+        "submitted_at": 1759946823.6867127,
+        "complaint": "thief",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "99d193bd": {
+        "pnr": "",
+        "submitted_at": 1759946828.6626568,
+        "complaint": "thief",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "4e96cfca": {
+        "pnr": "",
+        "submitted_at": 1759946841.8292928,
+        "complaint": "thief",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "a3df64d5": {
+        "pnr": "",
+        "submitted_at": 1759946881.4056041,
+        "complaint": "thief",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "bbeaa022": {
+        "pnr": "",
+        "submitted_at": 1759946908.9330726,
+        "complaint": "thief",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "379ac6b1": {
+        "pnr": "",
+        "submitted_at": 1759946963.3431306,
+        "complaint": "thief",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "0328c5da": {
+        "pnr": "",
+        "submitted_at": 1759946971.4885235,
+        "complaint": "cockroach",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "ee2cdeb4": {
+        "pnr": "",
+        "submitted_at": 1759947089.4705353,
+        "complaint": "cockroach",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "9c52d0fd": {
+        "pnr": "",
+        "submitted_at": 1759947094.6025436,
+        "complaint": "thief",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Security"
+        ],
+        "status": "Resolved"
+    },
+    "4e3a23d4": {
+        "pnr": "123456789",
+        "submitted_at": 1759993855.0346813,
+        "complaint": "it was not a nice experience.i lost my luggage and couldn't find it.",
+        "predicted": [
+            {
+                "department": "Booking",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Booking"
+        ],
+        "status": "Pending"
+    },
+    "ace2d006": {
+        "pnr": "",
+        "submitted_at": 1759993883.6515386,
+        "complaint": "staff is not proper",
+        "predicted": [
+            {
+                "department": "Staff Conduct",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Staff Conduct"
+        ],
+        "status": "Pending"
+    },
+    "d675412b": {
+        "pnr": "",
+        "submitted_at": 1759993897.9627004,
+        "complaint": "unclean compartments\n",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "61b753eb": {
+        "pnr": "",
+        "submitted_at": 1759993909.449659,
+        "complaint": "clean compartments\n",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending"
+    },
+    "141aca1e": {
+        "pnr": "",
+        "submitted_at": 1759994827.6640255,
+        "complaint": "facilities are not proper",
+        "predicted": [
+            {
+                "department": "Infrastructure",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Infrastructure"
+        ],
+        "status": "Pending"
+    },
+    "ed009002": {
+        "pnr": "",
+        "submitted_at": 1759998752.429681,
+        "complaint": "food is not good",
+        "predicted": [
+            {
+                "department": "Catering",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering"
+        ],
+        "status": "Pending"
+    },
+    "c371ee53": {
+        "pnr": "",
+        "submitted_at": 1759998759.9475434,
+        "complaint": "toilets",
+        "predicted": [
+            {
+                "department": "Cleanliness",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness"
+        ],
+        "status": "Pending"
+    },
+    "443ef735": {
+        "pnr": "",
+        "submitted_at": 1760001575.9958413,
+        "complaint": "cockroaches",
+        "predicted": [
+            {
+                "department": "General",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "General"
+        ],
+        "status": "Pending"
+    },
+    "06bc105d": {
+        "pnr": "",
+        "submitted_at": 1760620918.184267,
+        "complaint": "seat bohot ganda hai",
+        "predicted": [
+            {
+                "department": "Technical Maintenance (Coach)",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Technical Maintenance (Coach)"
+        ],
+        "status": "Pending"
+    },
+    "ba3db668": {
+        "pnr": "",
+        "submitted_at": 1760620930.6163478,
+        "complaint": "cockroaches under seat",
+        "predicted": [
+            {
+                "department": "Technical Maintenance (Coach)",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Technical Maintenance (Coach)"
+        ],
+        "status": "Pending"
+    },
+    "b64765c4": {
+        "pnr": "",
+        "submitted_at": 1760620940.5221918,
+        "complaint": "samosa accha nahi tha",
+        "predicted": [
+            {
+                "department": "Cleanliness & Housekeeping",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness & Housekeeping"
+        ],
+        "status": "Pending"
+    },
+    "a0328ae3": {
+        "pnr": "",
+        "submitted_at": 1760620953.2927368,
+        "complaint": "food was not good",
+        "predicted": [
+            {
+                "department": "Catering & Food Quality",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering & Food Quality"
+        ],
+        "status": "Pending"
+    },
+    "6800d571": {
+        "pnr": "5784212152",
+        "submitted_at": 1760677357.2381353,
+        "complaint": "Seat is dirty.",
+        "predicted": [
+            {
+                "department": "Commercial & Ticketing",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Commercial"
+        ],
+        "status": "Resolved"
+    },
+    "c36ba320": {
+        "pnr": "123456789",
+        "submitted_at": 1760696557.4034784,
+        "complaint": "tiolet saaf nhi hai",
+        "predicted": [
+            {
+                "department": "Technical Maintenance (Coach)",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Technical Maintenance (Coach)"
+        ],
+        "status": "Resolved"
+    },
+    "7d33b0b5": {
+        "pnr": "454548",
+        "submitted_at": 1760761693.7104988,
+        "complaint": "mmm",
+        "predicted": [
+            {
+                "department": "Technical Maintenance (Coach)",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Technical Maintenance (Coach)"
+        ],
+        "status": "Pending"
+    },
+    "66c08572": {
+        "pnr": "4545548451",
+        "submitted_at": 1760761875.9474232,
+        "complaint": "jhv",
+        "predicted": [
+            {
+                "department": "Technical Maintenance (Coach)",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Technical Maintenance (Coach)"
+        ],
+        "status": "Pending"
+    },
+    "2ca406c2": {
+        "pnr": "2324000681",
+        "submitted_at": 1760761886.2922716,
+        "complaint": "bhjdbgjhb",
+        "predicted": [
+            {
+                "department": "Technical Maintenance (Coach)",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Technical Maintenance (Coach)"
+        ],
+        "status": "Pending"
+    },
+    "0714bbc8": {
+        "pnr": "2324000681",
+        "submitted_at": 1760761914.4337454,
+        "complaint": "toilets are not clean",
+        "predicted": [
+            {
+                "department": "Cleanliness & Housekeeping",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness & Housekeeping"
+        ],
+        "status": "Pending"
+    },
+    "d6652df9": {
+        "pnr": "2324000681",
+        "submitted_at": 1760761932.065535,
+        "complaint": "khana accha nahi tha",
+        "predicted": [
+            {
+                "department": "Cleanliness & Housekeeping",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness & Housekeeping"
+        ],
+        "status": "Pending"
+    },
+    "9669dc32": {
+        "pnr": "2324000681",
+        "submitted_at": 1760761942.268179,
+        "complaint": "food was not good",
+        "predicted": [
+            {
+                "department": "Catering & Food Quality",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Catering & Food Quality"
+        ],
+        "status": "Pending"
+    },
+    "d34c3a6f": {
+        "pnr": "2324000681",
+        "submitted_at": 1760761966.8713362,
+        "complaint": "coach was broken",
+        "predicted": [
+            {
+                "department": "Cleanliness & Housekeeping",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness & Housekeeping"
+        ],
+        "status": "Pending"
+    },
+    "f4f22676": {
+        "pnr": "2324000681",
+        "submitted_at": 1760761976.4853592,
+        "complaint": "coach was dirty",
+        "predicted": [
+            {
+                "department": "Cleanliness & Housekeeping",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Cleanliness & Housekeeping"
+        ],
+        "status": "Pending"
+    },
+    "f00fb8c8": {
+        "pnr": "2324000681",
+        "submitted_at": 1760762021.5761225,
+        "complaint": "staff was no cooperative",
+        "predicted": [
+            {
+                "department": "Staff Behavior & Customer Service",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Staff Behavior & Customer Service"
+        ],
+        "status": "Pending"
+    },
+    "2ddf9dcb": {
+        "pnr": "2324000681",
+        "submitted_at": 1760762088.3684227,
+        "complaint": "theft happened last night",
+        "predicted": [
+            {
+                "department": "Security & Rpf",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Security & Rpf"
+        ],
+        "status": "Pending"
+    },
+    "86b4fe5b": {
+        "pnr": "2324000681",
+        "submitted_at": 1760762126.3215876,
+        "complaint": "AC was not working",
+        "predicted": [
+            {
+                "department": "Technical Maintenance (Coach)",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Technical Maintenance (Coach)"
+        ],
+        "status": "Pending"
+    },
+    "a26f793b": {
+        "pnr": "2324000681",
+        "submitted_at": 1760762154.704112,
+        "complaint": "there was a long queue for booking",
+        "predicted": [
+            {
+                "department": "Commercial & Ticketing",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Commercial & Ticketing"
+        ],
+        "status": "Pending"
+    },
+    "f96eeb57": {
+        "pnr": "2324000681",
+        "submitted_at": 1760762182.2653265,
+        "complaint": "train arrived too late",
+        "predicted": [
+            {
+                "department": "Operations & Scheduling",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Operations & Scheduling"
+        ],
+        "status": "Pending"
+    },
+    "697eed5f": {
+        "pnr": "2324000681",
+        "submitted_at": 1760762234.703645,
+        "complaint": "escalator not working",
+        "predicted": [
+            {
+                "department": "Technical Maintenance (Coach)",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Technical Maintenance (Coach)"
+        ],
+        "status": "Resolved"
+    },
+    "ddeb382a": {
+        "pnr": "5777777511",
+        "submitted_at": 1760768122.2148194,
+        "complaint": "toilet is not clean",
+        "predicted": [
+            {
+                "department": "Commercial & Ticketing",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Commercial & Ticketing"
+        ],
+        "status": "Pending"
+    },
+    "a6df299e": {
+        "pnr": "7759476945",
+        "submitted_at": 1762871841.1671054,
+        "complaint": "cockroach",
+        "predicted": [
+            {
+                "department": "Technical Maintenance (Coach)",
+                "score": 1.0
+            }
+        ],
+        "assigned_departments": [
+            "Technical Maintenance (Coach)"
+        ],
+        "status": "Pending"
+    }
+}

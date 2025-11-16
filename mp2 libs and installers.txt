@@ -1,0 +1,21 @@
+to run api: python -m uvicorn app:app --reload
+to test complaint: python -u "D:\mp2\test_client.py"
+python -u "D:\mp2\predict.py"
+python -u "d:\mp2\train_model.py"
+python -u "D:\mp2\data2.py"
+python -u "D:\mp2\cleaning.py"
+
+pip install numpy regex nltk spacy
+pip install pandas
+
+
+31UZ8l8EA2W70yuHFuDwugGHERu_5sXqDEHv9n7Xn4E9CGN6L  
+authtoken
+
+
+https://7897a852bb88.ngrok-free.app/   
+api link on site
+
+http://127.0.0.1:4040/inspect/http 
+local api link
+

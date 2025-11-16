@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard - Railway Complaint System</title>
+    <!-- Corrected the CSS path to be a server URL -->
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <div class="logo-icon">🚂</div>
+                <h1>Railway Complaint Dashboard</h1>
+            </div>
+            <div class="admin-info">
+                <span id="adminName">Welcome, Admin</span>
+                <button class="logout-btn" onclick="logout()">Logout</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Dashboard Content -->
+    <main class="dashboard-content">
+        <div class="container">
+            <!-- Stats Section -->
+            <section class="stats-section">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-number" id="totalComplaints">0</div>
+                        <div class="stat-label">Total Complaints</div>
+                    </div>
+                    <div class="stat-card pending">
+                        <div class="stat-number" id="pendingComplaints">0</div>
+                        <div class="stat-label">Pending</div>
+                    </div>
+                    <div class="stat-card resolved">
+                        <div class="stat-number" id="resolvedComplaints">0</div>
+                        <div class="stat-label">Resolved</div>
+                    </div>
+                     <div class="stat-card in-progress">
+                        <div class="stat-number" id="inProgressComplaints">0</div>
+                        <div class="stat-label">In Progress</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- NEW: Filters Section -->
+            <section class="filters-section">
+                <div class="section-header">
+                    <h2>Filter Complaints</h2>
+                </div>
+                <div class="filters">
+                    <select id="statusFilter" onchange="renderComplaintsTable()">
+                        <option value="all">All Status</option>
+                        <option value="Pending">Pending</option>
+                        <option value="In Progress">In Progress</option>
+                        <option value="Resolved">Resolved</option>
+                    </select>
+                    <select id="departmentFilter" onchange="renderComplaintsTable()">
+                        <option value="all">All Departments</option>
+                        <!-- Options will be populated by dashboard.js -->
+                    </select>
+                    <input type="text" id="searchInput" onkeyup="renderComplaintsTable()" placeholder="Search by ID or PNR...">
+                </div>
+            </section>
+
+            <!-- Complaints Table -->
+            <section class="complaints-section">
+                 <div class="section-header">
+                    <h2>Live Complaints Feed</h2>
+                </div>
+                <div class="table-container">
+                    <table class="complaints-table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>PNR</th>
+                                <th>Submitted At</th>
+                                <th>Department(s)</th>
+                                <th>Status</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="complaintsTableBody">
+                            <!-- Complaint rows will be populated here by dashboard.js -->
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Details Modal -->
+    <div id="detailsModal" class="modal hidden">
+        <div class="modal-content large">
+            <div class="modal-header">
+                <h2 id="modalTitle">Complaint Details</h2>
+                <button class="close-btn" onclick="hideDetailsModal()">&times;</button>
+            </div>
+            <div id="modalBody" class="complaint-details">
+                <!-- Modal content will be populated here by dashboard.js -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Corrected the script path to point to the dashboard-specific JS file -->
+    <script src="/static/js/dashboard.js"></script>
+</body>
+</html>
+

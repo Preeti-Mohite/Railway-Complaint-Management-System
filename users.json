@@ -1,0 +1,26 @@
+{
+    "Ishwari": {
+        "username": "Ishwari",
+        "password": "$2b$12$VNWpun4VWXXT4FboSVsynOi9kK6MIJrz5XzHzcoWdEEu5iUBW1lNq"
+    },
+    "Abcd": {
+        "username": "Abcd",
+        "password": "$2b$12$KBHLjFVYh1PdSJbqAlC3zuJbBo6xcTlCRNJr/g8csvuRVw8cDxX/C"
+    },
+    "shruti": {
+        "username": "shruti",
+        "password": "$2b$12$/6BXM1WSVWi402WUJM0UaePCqLV2pzOAwMZgmDLNjD4t7Zp51xI/u"
+    },
+    "abcd": {
+        "username": "abcd",
+        "password": "$2b$12$IH7CgXanwAFYgywCKh4MKeIh7Ip2O.sA/RFSWLggEgrCQmDR9PbNq"
+    },
+    "abcde": {
+        "username": "abcde",
+        "password": "$2b$12$GmgdAkj3lr.w2blqnbFpcOdDPHhW31wHgIAP25ot9ubbWriL3SJj."
+    },
+    "preeti": {
+        "username": "preeti",
+        "password": "$2b$12$UL1AqF.HdBSONNpe2kh5ieim66zXzgBwTL9sblDdCVZ4W/MFHSzDm"
+    }
+}

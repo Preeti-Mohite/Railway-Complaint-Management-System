@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Railway Complaint Management System</title>
+    <!-- Corrected Link: Uses a server URL path, not a local file path -->
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <div class="logo-icon">🚂</div>
+                <h1>Railway Complaint System</h1>
+            </div>
+            <!-- This button now correctly calls a function from our script.js -->
+            <button class="admin-login-btn" onclick="showAdminLogin()">Staff Login</button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- User Complaint Section -->
+            <section class="complaint-section">
+                <div class="section-header">
+                    <h2>Submit Your Complaint</h2>
+                    <p>We're here to help resolve your railway-related concerns.</p>
+                </div>
+
+                <div class="form-container">
+                    <form id="complaintForm" class="complaint-form">
+                        <div class="form-group">
+                            <label for="pnr">PNR Number</label>
+                            <input type="text" id="pnr" name="pnr" placeholder="Enter your 10-digit PNR number" required minlength="10" maxlength="10">
+                        </div>
+                        
+                        <!-- Corrected Field: 'id' and 'name' are now 'complaint' to match the API -->
+                        <div class="form-group">
+                            <label for="complaint">Complaint Description</label>
+                            <textarea id="complaint" name="complaint" rows="4" 
+                                placeholder="Please describe your complaint in detail..." required></textarea>
+                        </div>
+
+                        <button type="submit" class="submit-btn">Submit Complaint</button>
+                    </form>
+
+                    <!-- Predicted Department Display -->
+                    <div id="departmentResult" class="department-result hidden">
+                        <h3>Complaint Submitted Successfully!</h3>
+                        <div class="complaint-info">
+                            <p><strong>Complaint ID:</strong> <span id="complaintId"></span></p>
+                            <p><strong>Assigned Department:</strong> <span id="assignedDepartment"></span></p>
+                            <p>Please save your Complaint ID for future reference.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Status Check Section -->
+            <section class="status-section">
+                <div class="section-header">
+                    <h2>Check Complaint Status</h2>
+                    <p>Enter your complaint ID to check the current status.</p>
+                </div>
+
+                <div class="status-container">
+                    <div class="status-form">
+                        <div class="form-group">
+                            <label for="statusComplaintId">Complaint ID</label>
+                            <input type="text" id="statusComplaintId" placeholder="Enter your complaint ID">
+                        </div>
+                        <button onclick="checkStatus()" class="check-btn">Check Status</button>
+                    </div>
+
+                    <div id="statusResult" class="status-result hidden">
+                        <div class="status-card">
+                            <h3>Complaint Status</h3>
+                            <div id="statusDetails"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Admin Login Modal -->
+    <div id="adminLoginModal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Staff Login</h2>
+                <button class="close-btn" onclick="hideAdminLogin()">&times;</button>
+            </div>
+            <form id="adminLoginForm" class="admin-form">
+                <div class="form-group">
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <button type="submit" class="login-btn">Login</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Corrected Link: Uses a server URL path for the JavaScript file -->
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
+
